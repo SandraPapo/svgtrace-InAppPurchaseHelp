@@ -1,0 +1,7 @@
+{
+  "name": "SvgTrace",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

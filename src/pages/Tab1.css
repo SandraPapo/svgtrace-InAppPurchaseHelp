@@ -1,0 +1,10 @@
+.container {
+    color: #000;
+}
+
+/* make height 100% */
+ion-content {
+    --min-height: 100%;
+}
+
+  
